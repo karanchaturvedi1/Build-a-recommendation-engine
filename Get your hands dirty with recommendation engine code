@@ -1,5 +1,18 @@
 Get your hands dirty with recommendation engine code
 
+Many of today’s most engaging applications provide personalized experiences to users. Collaborative filtering algorithms 
+capture the commonality between users and enable applications to make personalized recommendations quickly and efficiently.
+
+
+How to implement k-means using Apache Spark to build your own recommendation engine ?
+
+In this hands on content, you will:
+•	load historical shopping data
+•	structure and view that data in a table that displays customer information,product categories, and shopping history details
+•	use the k-means algorithm, which is useful for cluster analysis in data mining, to segment customers into clusters for the 
+  purpose of making an in-store purchase recommendation based on shopping history
+•	deploy the model to the IBM Watson Machine Learning service in IBM Cloud to create your recommendation application
+
 To see the content, Please visit
 
 https://github.com/IBMDevConnect/Recommendation_service
