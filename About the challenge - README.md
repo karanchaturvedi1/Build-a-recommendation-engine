@@ -11,3 +11,4 @@ Business stakeholders don't care much on how fancy the algorithm is. They care m
 Here is the opportunity to prove that Data Science is all about solving the real business problem not just models or algorithm alone. Are you ready to take up this challenge?
 
 
+Skills:
