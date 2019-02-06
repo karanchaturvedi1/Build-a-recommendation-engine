@@ -5,20 +5,23 @@
 * ~68%
 * ~83%
 
-2. In a binary classification problem with 3 input features, a bagging algorithm is applied with max_features=2 and n_estimators=3.
-   if each estimator has 70% accuracy, what is the range of accuracy that can be achieved?
+2. In a binary classification problem with 3 input features, a bagging algorithm is applied with max_features=2 and n_estimators
+   =3. if each estimator has 70% accuracy, what is the range of accuracy that can be achieved?
+
 * 60% - 100%
 * 33% - 100%
 * 0%  - 70%
 * 33% - 90%
 
-3. Given two variables A and B, if the pearson correlation between them is 0, what can be said about the relation between A and B?
+3. Given two variables A and B, if the pearson correlation between them is 0, what can be said about the relation between A and
+   B?
 
 * A and B are not related to each other
 * A and B might be related to each other
 * A and B are related to each other
 
-4. An activation function X is used in the hidden layers of a neural network. At a particular neuron, for given input, you get the output as -0.0001. Which of the following could X represent?
+4. An activation function X is used in the hidden layers of a neural network. At a particular neuron, for given input, you get 
+   the output as -0.0001. Which of the following could X represent?
 
 * ReLU
 * Tanh
