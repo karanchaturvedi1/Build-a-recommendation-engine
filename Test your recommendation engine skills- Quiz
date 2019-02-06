@@ -1,4 +1,5 @@
-1. A Dataset has missing values which spread along 1 standard deviation from the median. what % of data would remain unaffected in this scenario?
+1. A Dataset has missing values which spread along 1 standard deviation from the median. what % of data would remain unaffected
+   in this scenario?
 
 * ~32%
 * ~17%
