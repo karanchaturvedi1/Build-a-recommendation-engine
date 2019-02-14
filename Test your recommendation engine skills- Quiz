@@ -14,47 +14,50 @@
 * 0%  - 70%
 * 33% - 90%
 
-3. Given two variables A and B, if the pearson correlation between them is 0, what can be said about the relation between A and
+3. Analytics Engine service available on IBM Cloud offers the following features:
+
+1. Provides cluster onDemand to deploy ML Model
+2. Build on ODPi compliant Apache Spark and Apache Hadoop stack 
+3. Cluster can be customized with third-party analytics libraries
+4. All the above 
+
+
+4. Given two variables A and B, if the pearson correlation between them is 0, what can be said about the relation between A and
    B?
 
 * A and B are not related to each other
 * A and B might be related to each other
 * A and B are related to each other
 
-4. An activation function X is used in the hidden layers of a neural network. At a particular neuron, for given input, you get 
+
+
+5. An activation function X is used in the hidden layers of a neural network. At a particular neuron, for given input, you get 
    the output as -0.0001. Which of the following could X represent?
 
 * ReLU
 * Tanh
 * Sigmoid
 
-5. Adding a non-important feature to a linear regression model will result in?
-
-* Increase in R - Square
-* Decrease in R - Square
-* R - Square may increase and decrease
-
-6. True or False:
-
-Is it advisable to use SVM for a classification problem with millions of datapoints with lot of outliers.
-
-* True
-* False
-
-7. Analytics Engine service available on IBM Cloud offers the following features:
-
-1. Provides cluster onDemand to deploy ML Model
-2. Build on ODPi compliant Apache Spark and Apache Hadoop stack 
-3. Cluster can be customized with third-party analytics libraries
-4. All the above
-
-8. Watson Machine Learning service available on IBM Cloud offers the following features:
+6. Watson Machine Learning service available on IBM Cloud offers the following features:
 
 1. Support ML frameworks TensorFlow, Keras, Caffe, PyTorch, Spark MLlib, scikit learn, xgboost and SPSS.
 2. Watson Machine Learning is an SVM based optimisation algorithms
 3. Helps in exporting the created model as api endpoint
 4. Both 1 and 3 Only
 5. All mentioned in 1,2,3 are applicable
+
+7. Adding a non-important feature to a linear regression model will result in?
+
+* Increase in R - Square
+* Decrease in R - Square
+* R - Square may increase and decrease
+
+8. True or False:
+
+Is it advisable to use SVM for a classification problem with millions of datapoints with lot of outliers.
+
+* True
+* False
 
 9. Watson Studio available on IBM Cloud provides an evnvironment to build ML/DL models and execute it on different runtime 
    architecture  like Spark , Distributed Cluster and GPU based accelerated environment
