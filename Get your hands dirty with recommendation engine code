@@ -19,9 +19,9 @@ https://github.com/IBMDevConnect/Recommendation_service
 
 These steps are clearly explained in the youtube link : https://www.youtube.com/watch?v=VZcMLaua7cg&feature=youtu.be
 
-You can also use Analytics Engine service, available on IBM Cloud.
+You can also use Cluster environment to deploy the recommendation engine available as analytics engine service on IBM Cloud.
 
-Analytics Engine steps are mentioned in the below youtube link:
+Steps are clearly mentioned in the below youtube link:
 
 https://youtu.be/VZcMLaua7cg
 
