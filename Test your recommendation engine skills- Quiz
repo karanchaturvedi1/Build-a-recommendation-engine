@@ -36,7 +36,8 @@
 
 6. True or False:
 
-It is advisable to use SVM for a classification problem with millions of datapoints with lot of outliers.
+Is it advisable to use SVM for a classification problem with millions of datapoints with lot of outliers.
+
 * True
 * False
 
@@ -50,12 +51,14 @@ It is advisable to use SVM for a classification problem with millions of datapoi
 8. Watson Machine Learning service available on IBM Cloud offers the following features:
 
 1. Support ML frameworks TensorFlow, Keras, Caffe, PyTorch, Spark MLlib, scikit learn, xgboost and SPSS.
-2. Helps in exporting the created mode as api endpoint
-3. Watson Machine Learning is an SVM based optimisation algorithms
+2. Watson Machine Learning is an SVM based optimisation algorithms
+3. Helps in exporting the created model as api endpoint
 4. Both 1 and 3 Only
 5. All mentioned in 1,2,3 are applicable
 
-9. Watson Studio available on IBM Cloud provides an evnvironment to build ML/DL models and execute it on different runtime architecture  like Spark , Distributed Cluster and GPU based accelerated environment
+9. Watson Studio available on IBM Cloud provides an evnvironment to build ML/DL models and execute it on different runtime 
+   architecture  like Spark , Distributed Cluster and GPU based accelerated environment
+
 * True
 * False
 
